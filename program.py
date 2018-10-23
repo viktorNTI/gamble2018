@@ -16,3 +16,12 @@ while kort != 100:
     hand = hand + str(kort)
     print(hand)
     
+
+#Jens lösning för att spara hand (med fel?):
+#hand = []
+#kort = 0
+#while kort !=100:
+    #kort = int(input("Välj ett kort: "))
+    #hand.append(kort)
+    #for k in hand:
+            #print(k)
